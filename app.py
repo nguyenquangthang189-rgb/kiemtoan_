@@ -263,8 +263,8 @@ def train_and_evaluate(X, y, test_size, random_state, rf_estimators):
 # Header ứng dụng
 st.markdown("""
 <div class="main-header">
-    <h1>🛡️ ANTIGRAVITY TRANSACTION ANOMALY RADAR</h1>
-    <p>Hệ thống giám sát và phát hiện giao dịch bất thường trong thời gian thực sử dụng trí tuệ nhân tạo</p>
+    <h1>🛡️ PHÁT HIỆN GIAO DỊCH BẤT THƯỜNG</h1>
+    <p>Hệ thống giám sát và phát hiện giao dịch bất thường trong thời gian thực</p>
 </div>
 """, unsafe_allow_html=True)
 
